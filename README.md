@@ -47,5 +47,3 @@ UI/UX for web & mobile · Visual identity · Icons & illustration
 ### Let’s connect
 
 [Email](mailto:khojasteh.katayoon@gmail.com) · [LinkedIn](https://www.linkedin.com/in/katayoon-khojasteh/) · [Dribbble](https://dribbble.com/katykh) · [Instagram](https://www.instagram.com/katayoon_khojasteh/)
-
-[Website repository (private) ↗](https://github.com/Iman-Hejazi/katayoun)
